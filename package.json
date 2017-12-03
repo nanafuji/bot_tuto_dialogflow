@@ -1,0 +1,26 @@
+{
+  "name": "bot_tuto",
+  "version": "1.0.0",
+  "description": "tutorial how to build a bot with dialogflow and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nanafuji/bot_tuto_dialogflow.git"
+  },
+  "author": "nana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanafuji/bot_tuto_dialogflow/issues"
+  },
+  "homepage": "https://github.com/nanafuji/bot_tuto_dialogflow#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "save": "^2.3.1"
+  }
+}
